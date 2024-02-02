@@ -9,7 +9,7 @@ O objetivo principal deste repositório é documentar meu aprendizado contínuo 
 ## Estrutura do Repositório
 - **Projetos:** Esta pasta contém projetos práticos que desenvolvi para aplicar conceitos específicos do Ruby on Rails.
 - **Exercícios:** Aqui, você encontrará exercícios e desafios que resolvi como parte do meu treinamento em Ruby on Rails.
-- **Notas e Tutoriais:** Esta seção inclui anotações, tutoriais e recursos úteis que compilei ao longo do meu processo de aprendizado. É uma referência rápida para conceitos importantes e soluções para problemas comuns.
+- **Conhecimentos:** Esta seção inclui anotações, tutoriais e recursos úteis que compilei ao longo do meu processo de aprendizado. É uma referência rápida para conceitos importantes e soluções para problemas comuns.
 
 ## Recursos de Aprendizado
 - **Documentação Oficial do Ruby on Rails:** [https://guides.rubyonrails.org/](https://guides.rubyonrails.org/)
